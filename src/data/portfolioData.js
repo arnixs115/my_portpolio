@@ -1,5 +1,5 @@
 export const links = {
-  github: "",
+  github: "https://github.com/arnixs115",
   movieReview: "",
   commodityRepository: "",
   commodityReport: "",
