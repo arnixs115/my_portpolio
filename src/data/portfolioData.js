@@ -1,10 +1,10 @@
 export const links = {
   github: "https://github.com/arnixs115",
-  movieReview: "",
-  commodityRepository: "",
-  commodityReport: "",
-  llmRepository: "",
-  llmReport: "",
+  movieReview: "https://github.com/arnixs115/boostcamp8-review-sentiment-classification",
+  commodityRepository: "https://github.com/boostcampaitech8/pro-nlp-finalproject-nlp-09",
+  commodityReport: "https://github.com/boostcampaitech8/pro-nlp-finalproject-nlp-09/blob/main/asset/NLP-09_%EC%9B%90%EC%9E%90%EC%9E%AC_%ED%88%AC%EC%9E%90%EA%B2%B0%EC%A0%95_%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8.pdf",
+  llmRepository: "https://github.com/boostcampaitech8/pro-nlp-generationfornlp-nlp-09",
+  llmReport: "https://github.com/boostcampaitech8/pro-nlp-generationfornlp-nlp-09/blob/main/asset/%E1%84%89%E1%85%AE%E1%84%82%E1%85%B3%E1%86%BC%E1%84%92%E1%85%A7%E1%86%BC%20%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6%20%E1%84%91%E1%85%AE%E1%86%AF%E1%84%8B%E1%85%B5%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%20%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%20WRAP-UP%20REPORT.pdf",
 };
 
 export const strengths = [
